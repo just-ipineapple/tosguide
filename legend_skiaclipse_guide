@@ -271,52 +271,94 @@ Skiaclipse have 2 kind of skills,
 +----------------------------------+-----------+----------+-----------------+
 
 =#= Wizard
-Skill (& class)				                Vs Meteor	  Vs Curse	Vs 999'999 Wipe
-Teleport (wizard)			                Yes		      No    		Yes
-Magic shield (wizard)			            Yes	      	Yes	    	No
-Missile Hole (sage)			              No		      No		    No
-Mackangdal (bokor)			              Yes		      Yes		    No
-Shadow Pool (shadowmancer)		        ??		      No		    ??
-Shadow Hallucination (shadowmancer)	  Yes		      Yes		    No
-Stop attribute (chronomancer)		      Yes		      Yes		    Yes
-Genbu (myangsa)				                Yes		      Yes		    No
-Levitation (featherfoot)		          No		      No		    No
-Rune of Protection (runecaster)		    Yes		      Yes		    No
++-------------------------------------+-----------+----------+-----------------+
+| Skill (&amp; class)                 | Vs Meteor | Vs Curse | Vs 999'999 Wipe |
++-------------------------------------+-----------+----------+-----------------+
+| Teleport (wizard)                   | Yes       | No       | Yes             |
++-------------------------------------+-----------+----------+-----------------+
+| Magic shield (wizard)               | Yes       | Yes      | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Missile Hole (sage)                 | No        | No       | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Mackangdal (bokor)                  | Yes       | Yes      | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Shadow Pool (shadowmancer)          | ??        | No       | ??              |
++-------------------------------------+-----------+----------+-----------------+
+| Shadow Hallucination (shadowmancer) | Yes       | Yes      | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Stop attribute (chronomancer)       | Yes       | Yes      | Yes             |
++-------------------------------------+-----------+----------+-----------------+
+| Genbu (myangsa)                     | Yes       | Yes      | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Levitation (featherfoot)            | No        | No       | No              |
++-------------------------------------+-----------+----------+-----------------+
+| Rune of Protection (runecaster)     | Yes       | Yes      | No              |
++-------------------------------------+-----------+----------+-----------------+
 
 =#= Archer
-Skill (& class)				                Vs Meteor   Vs Curse	Vs 999'999 Wipe
-Leap or Jump (archer)			            Yes		      No		    Yes
-Lied des Weltbaum (pied piper)		    Yes		      Yes		    Yes
-Friedenslied on ally (pied piper)	    Yes		      Yes		    Yes
-Friedenslied on self (pied piper)	    No		      No    		No
-Fire and Run (matross)			          Yes		      Yes   		Yes
++-----------------------------------+-----------+----------+-----------------+
+| Skill (&amp; class)               | Vs Meteor | Vs Curse | Vs 999'999 Wipe |
++-----------------------------------+-----------+----------+-----------------+
+| Leap or Jump (archer)             | Yes       | No       | Yes             |
++-----------------------------------+-----------+----------+-----------------+
+| Lied des Weltbaum (pied piper)    | Yes       | Yes      | Yes             |
++-----------------------------------+-----------+----------+-----------------+
+| Friedenslied on ally (pied piper) | Yes       | Yes      | Yes             |
++-----------------------------------+-----------+----------+-----------------+
+| Friedenslied on self (pied piper) | No        | No       | No              |
++-----------------------------------+-----------+----------+-----------------+
+| Fire and Run (matross)            | Yes       | Yes      | Yes             |
++-----------------------------------+-----------+----------+-----------------+
 
 =#= Cleric
-Skill (& class)				                Vs Meteor	  Vs Curse	Vs 999'999 Wipe
-Fade (cleric)				                  No		      No    		No
-Revive (priest)				                Yes		      Yes   		Yes
-Out of Body (sadhu)			              Yes		      Yes		    No
-Foretell (oracle)			                Yes		      Yes		    No
-Counterspell (oracle)			            No		      No		    No
-Ein Sof (kabbalist)			              Yes		      Yes		    No
-Revenged Sevenfold (kabbalist)		    ??		      No		    No
-Engkrateia attribute (exorcist)		    Yes		      Yes		    Yes
-Iron Skin (monk)			                No		      No		    No
-Stone Skin (paladin)			            Yes     		Yes		    No
++---------------------------------+-----------+----------+-----------------+
+| Skill (&amp; class)             | Vs Meteor | Vs Curse | Vs 999'999 Wipe |
++---------------------------------+-----------+----------+-----------------+
+| Fade (cleric)                   | No        | No       | No              |
++---------------------------------+-----------+----------+-----------------+
+| Revive (priest)                 | Yes       | Yes      | Yes             |
++---------------------------------+-----------+----------+-----------------+
+| Out of Body (sadhu)             | Yes       | Yes      | No              |
++---------------------------------+-----------+----------+-----------------+
+| Foretell (oracle)               | Yes       | Yes      | No              |
++---------------------------------+-----------+----------+-----------------+
+| Counterspell (oracle)           | No        | No       | No              |
++---------------------------------+-----------+----------+-----------------+
+| Ein Sof (kabbalist)             | Yes       | Yes      | No              |
++---------------------------------+-----------+----------+-----------------+
+| Revenged Sevenfold (kabbalist)  | ??        | No       | No              |
++---------------------------------+-----------+----------+-----------------+
+| Engkrateia attribute (exorcist) | Yes       | Yes      | Yes             |
++---------------------------------+-----------+----------+-----------------+
+| Iron Skin (monk)                | No        | No       | No              |
++---------------------------------+-----------+----------+-----------------+
+| Stone Skin (paladin)            | Yes       | Yes      | No              |
++---------------------------------+-----------+----------+-----------------+
 
 =#= Scout
-Skill (& class)				                  Vs Meteor	Vs Curse	Vs 999'999 Wipe
-Cloaking (scout)			                  No		    No		    No
-Annihilation (assassin)			            Yes		    Yes		    Yes
-Mangle attribute (outlaw)		            ??		    No		    No
-Blindfire attribute (outlaw)		        ??		    No		    No
-Rampage (outlaw)			                  ??		    No		    No
-Mokuton no Jutsu (shinobi)		          ??		    ??		    ??
-Bloody Overdrive attrib (bulletmarker)	Yes		    Yes		    Yes
-Ritirarsi (ardito)			                Yes		    Yes		    Yes
-Redemption (sheriff)			              ??		    No		    No
-Burrow (rogue)				                  No		    No    		No
-
++----------------------------------------+-----------+----------+-----------------+
+| Skill (&amp; class)                    | Vs Meteor | Vs Curse | Vs 999'999 Wipe |
++----------------------------------------+-----------+----------+-----------------+
+| Cloaking (scout)                       | No        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
+| Annihilation (assassin)                | Yes       | Yes      | Yes             |
++----------------------------------------+-----------+----------+-----------------+
+| Mangle attribute (outlaw)              | ??        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
+| Blindfire attribute (outlaw)           | ??        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
+| Rampage (outlaw)                       | ??        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
+| Mokuton no Jutsu (shinobi)             | ??        | ??       | ??              |
++----------------------------------------+-----------+----------+-----------------+
+| Bloody Overdrive attrib (bulletmarker) | Yes       | Yes      | Yes             |
++----------------------------------------+-----------+----------+-----------------+
+| Ritirarsi (ardito)                     | Yes       | Yes      | Yes             |
++----------------------------------------+-----------+----------+-----------------+
+| Redemption (sheriff)                   | ??        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
+| Burrow (rogue)                         | No        | No       | No              |
++----------------------------------------+-----------+----------+-----------------+
 
 =============================================
 
@@ -324,25 +366,45 @@ Burrow (rogue)				                  No		    No    		No
 
 =============================================
 
-Boss HP%	Attack A			                    Attack B
-90		    Summon Orbs   	                  -
-85		    Black Link    	                  -
-80		    Bone Prison			                  -
-70		    Curse				                      -
-65		    Summon Orbs			                  -
-60		    Black Link			                  -
-55		    Curse				                      -
-50		    Bone Prison			                  -
-40		    Summon Orbs			                  -
-35		    Tornado	Curse			                -
-30		    Black Link			                  -
-25		    Tornado				                    -
-20		    Bone Prison			                  Curse
-20-2	    (after patch) Rampage version A		-
-15		    Tornado	Summon Orbs		            -
-8		      Tornado				                    -
-8-2	      (before patch) Rampage version A	-
-5		      Black Link			                  -
++----------+----------------------------------+-------------+
+| Boss HP% | Attack A                         | Attack B    |
++----------+----------------------------------+-------------+
+| 90       | Summon Orbs                      | -           |
++----------+----------------------------------+-------------+
+| 85       | Black Link                       | -           |
++----------+----------------------------------+-------------+
+| 80       | Bone Prison                      | -           |
++----------+----------------------------------+-------------+
+| 70       | Curse                            | -           |
++----------+----------------------------------+-------------+
+| 65       | Summon Orbs                      | -           |
++----------+----------------------------------+-------------+
+| 60       | Black Link                       | -           |
++----------+----------------------------------+-------------+
+| 55       | Curse                            | -           |
++----------+----------------------------------+-------------+
+| 50       | Bone Prison                      | -           |
++----------+----------------------------------+-------------+
+| 40       | Summon Orbs                      | -           |
++----------+----------------------------------+-------------+
+| 35       | Tornado                          | Curse       |
++----------+----------------------------------+-------------+
+| 30       | Black Link                       | -           |
++----------+----------------------------------+-------------+
+| 25       | Tornado                          | -           |
++----------+----------------------------------+-------------+
+| 20       | Bone Prison                      | Curse       |
++----------+----------------------------------+-------------+
+| 20-2     | (after patch) Rampage version A  | -           |
++----------+----------------------------------+-------------+
+| 15       | Tornado                          | Summon Orbs |
++----------+----------------------------------+-------------+
+| 8        | Tornado                          | -           |
++----------+----------------------------------+-------------+
+| 8-2      | (before patch) Rampage version A | -           |
++----------+----------------------------------+-------------+
+| 5        | Black Link                       | -           |
++----------+----------------------------------+-------------+
 
 =============================================
 
