@@ -246,17 +246,29 @@ Skiaclipse have 2 kind of skills,
 =============================================
 
 =#= Swordman
-Skill (& class)				            Vs Meteor	  Vs Curse	Vs 999'999 Wipe
-Bear (swordsman)			            Yes		      Yes   		No
-Liberate (swordsman)		          Yes		      Yes	    	No
-Muleta (matador)			            ??		      Yes	    	??
-Paso Doble (matador)			        Yes		      Yes	    	Yes
-Backslide (matador)			          ??		      No	    	No
-Guardian (peltasta)			          Yes		      Yes		    No
-Shield Charger (templar)		      Yes		      Yes		    No
-Slithering (rodelero)			        Yes		      Yes	    	No
-Emperor's Bane on mob (murmillo)	??		      ??		    No
-Evade Thrust (murmillo)			      ??		      No		    No
++----------------------------------+-----------+----------+-----------------+
+| Skill (&amp; class)              | Vs Meteor | Vs Curse | Vs 999'999 Wipe |
++----------------------------------+-----------+----------+-----------------+
+| Bear (swordsman)                 | Yes       | Yes      | No              |
++----------------------------------+-----------+----------+-----------------+
+| Liberate (swordsman)             | Yes       | Yes      | No              |
++----------------------------------+-----------+----------+-----------------+
+| Muleta (matador)                 | ??        | Yes      | ??              |
++----------------------------------+-----------+----------+-----------------+
+| Paso Doble (matador)             | Yes       | Yes      | Yes             |
++----------------------------------+-----------+----------+-----------------+
+| Backslide (matador)              | ??        | No       | No              |
++----------------------------------+-----------+----------+-----------------+
+| Guardian (peltasta)              | Yes       | Yes      | No              |
++----------------------------------+-----------+----------+-----------------+
+| Shield Charger (templar)         | Yes       | Yes      | No              |
++----------------------------------+-----------+----------+-----------------+
+| Slithering (rodelero)            | Yes       | Yes      | No              |
++----------------------------------+-----------+----------+-----------------+
+| Emperor's Bane on mob (murmillo) | ??        | ??       | No              |
++----------------------------------+-----------+----------+-----------------+
+| Evade Thrust (murmillo)          | ??        | No       | No              |
++----------------------------------+-----------+----------+-----------------+
 
 =#= Wizard
 Skill (& class)				                Vs Meteor	  Vs Curse	Vs 999'999 Wipe
