@@ -1,0 +1,417 @@
+Legend Skiaclipse Guide - Summary
+Original : https://treeofsaviorraidguide.blogspot.com/2019/07/legend-skiaclipse-guide-2019.html?m=1
+Summary : PineFamily - Telsiai
+
+=============================================
+
+A. 	General
+A.a.	Skill Limit
+A.b.	Working debuff
+A.c.	Does not work debuff
+
+B.	Battle Phase
+B.a	Phase 0 - Shadowmancer's Room
+B.b	Phase 1 - Chained Skiaclipse
+B.c	Phase 2 - Final Skiaclipse
+
+C.	Counters vs true damage  - Phase 2
+
+D.	%HP Thresholds for special attacks - Phase 2
+
+E.	Player stats
+
+F.	Class Roles
+
+G.	Credits
+
+=============================================
+
+=== A. General 
+
+=============================================
+
+- Required Level: 420
+- You cannot re-enter the raid if you leave the map (death, VGA-error, disconnect).
+- You cannot enter the raid once phase 1 has started. Please wait for all party members to load.
+- You drop gems & other valuable items when you die here, so put them into storage before raid.
+- Limit of 4x soul crystal uses available, and count is shared by all party members.
+- Your Phase 1 clear speed is a way to predict your phase 2 clear speed: Phase 1 clear time x 5 = Phase 2 clear speed. 
+
+== A.a. Skill Limit ==
+
+- Revive (priest) cooldown increased to 5 minutes.
+- Backmasking (chrono), reincarnate (chrono), resurrection (priest) share count: max 1x use per dead character.
+- No reversi (thaumathurge).
+- No swap (psychokino).
+- Modafinil (plague doctor) reduced to 33% duration.
+- Chortasmata plant conversion (druid) & judgement demon conversion (inquisitor) reduced to 12.5% duration vs Skiaclipse.
+
+== A.b. Working debuff ==
+
+- Damage debuffs including:
+cleave, shield shoving,  spear lunge, divine stigma, death sentence, tri-disaster.
+
+- Damage decreasing debuffs:
+devaluate, lethargy, flesh hoop demoralize.
+
+- General debuffs including:
+burn, bleed, poison, blind, slow, shock, fear. 
+
+- Special class debuffs such as:
+discerning evil, corruption, decay, necromancer bane, desmodus, mastema, aiming, circling, swashbuckling, capote, nak muay debuffs, retiarius net.
+
+- DEF debuffs such as:
+devaluate, immolation, hagalaz, hexing, kagura, bodkin point, disarm. 
+
+- Passive attributes, such as:
+cannoneer detonate.
+
+- Item effects such as:
+masinios bow, sausis gloves, smugis set effect. 
+
+== A.c. Does not work debuff ==
+
+silence, freeze, knock up, knock down, knock back,
+and debuffs which have displacement side effects (like shield push, magnetic force, raise, cannister shot, pheasant),
+%HP reduction parts of special debuffs (corruption, decay), pied piper skills, stone curse, time forward. 
+
+
+=============================================
+
+=== B. Battle Phase
+
+=============================================
+
+=============================================
+== B.a Phase 0 - Shadowmancer's Room 
+=============================================
+
+Once you have entered the red portal, additional entry is forbidden for party members.
+You cannot enter the raid again if you disconnect, get VGA-error, or die and leave map. 
+
+=============================================
+== B.b Phase 1 - Chained Skiaclipse 
+=============================================
+
+Skiaclipse is located in the middle of the map. Saviours spawn South.
+Skiaclipse cannot move, and the side towards North is always the back-side of Skiaclipse
+
+
+=#= Skill :
+-- Light Pillar
+> 5 light pillars follow players to deal high multi-hit damage.
+
+-- Falling Stones (Inflict Stack)
+> Stones drop in random locations.
+> Everyhit, inflict +1 stack (can't be removed).
+> Avoid getting 100 stack debuff from hit by Falling Stones and Rock Wave.
+
+-- Rock Wave(Inflict Stack)
+> Stones rise from the ground, and shoot outward.
+> Everyhit, inflict +1 stack (can't be removed).
+> Avoid this skill by stay close to the Skiaclipse.
+> Avoid getting 100 stack debuff from hit by Falling Stones and Rock Wave.
+
+
+=#= Gimmick :
+-- Rampage - Phase 1
+if any player reaches 100 stacks individually,
+the Skiaclipse will deal 10-20% max HP damage to all players every 3 seconds until you fail the raid.
+
+-- Summon invincible healing mobs 
+> Skiaclipse summons 10 mobs, at: 70%, 40%, and 10% HP.
+> When mobs are alive, the Skiaclipse gains a buff to reduce all incoming damage by 90%, for 3 minutes.
+> Mobs are summoned in 1 random location, then they move towards the Skiaclipse.
+> Mobs never spawn twice in the same location.
+> When mobs get near the Skiaclipse, each mob heals the Skiaclipse for 1% HP/s.
+> These mobs revive infinitely, and automatically after 5 seconds.
+> Each mob has a separate revive timer.
+> Mobs are immune to joint penalty (linker).
+> Mobs are not immune to other crowd control.
+> Mobs are demon, dark, walking, medium size.
+> Mobs inflict a 10 seconds armour break (can't be removed).
+> Drop mob HP to 20%, Nuke together using all strongest AoE skill.
+> Avoid on hit mobs separately, desync on mobs HP make it more difficult to wipeout the mobs at the same time.
+
+=============================================
+== B.c Phase 2 - Final Skiaclipse
+=============================================
+
+At 5% HP, Skiaclipse automatically enters Phase 2.
+Immediately, a meteor drops on you. Most players get wiped right there.
+
+Skiaclipse have 2 kind of skills,
+1. Skill affected by player def
+2. Skill True Damage (Ignore player def)
+
+
+=#= Skills Affected By Player Def
+-- Claw (Physical - Slash type)
+> Slash forward 4 times
+> This attack is always used on the player with the highest aggro.
+> This attack must always hit on at least 1 player, or Skiaclipse gains stacks.
+> Each 1 stack: +size on thunder, +size on dive, +damage, +speed.
+> At 20 stacks, the Skiaclipse will enter Berserk and wipe all players.
+
+-- Thunder
+> Raise Arm to summon 3 thunderbolt
+> Inflict Silence and Root
+> Aim player who far away from Skiaclipse
+
+-- Dive (Physical - Strike type)
+> Only used after Thunder
+> Nuke type skill
+> The Skiaclipse will not dive if it cannot detect any players in the area.
+
+-- Smoke Blast
+> Raise Arm to fires a huge wave of smoke forward
+> Nuke type skill
+> This attack never targets the player with aggro. 
+
+-- Cloud
+> Skiaclipse spawns several clouds
+> AoE Countinuous Damage
+> Cannot be destroyed
+> Skiaclipse use this skill very often
+
+-- Puddle (Inflict Stack)
+> Puddles behave exactly the same as clouds, but inflict stacks.
+> Stack duration is 45s
+> Stack duration refresh every got new stack
+> Stack increase player damage receive
+> 100 Stack on a player will trigger "Rampage"
+> The only way to remove stacks faster, is aukuras (krivis skill scroll).
+> Must keep the boss from casting these skills at the middle of the map
+
+-- Black Link (at specific %HP thresholds)
+> Skiaclipse teleport 2 or more players to its face
+> Link slowdown player and damage continuously
+> Link heal the Skiaclipse
+
+-- Tornado (at specific %HP Thresholds)
+> A tornado appears at a random location on the map.
+> The tornado grows in size every second.
+> The tornado moves slowly towards the Skiaclipse.
+> When the tornado touches the Skiaclipse, the Skiaclipse gains +1 stack every second (same as Claw mechanism).
+> The tornado is a magic circle.
+> Use magic circle removal skills like siege burst, detonate traps, or counterspell to remove it.
+> Without magic circle removal skill, player must Tank the Tornado for 6s while its move on Cloud and Puddle.
+
+
+=#= Skills True Damage (Ignore Def)
+-- Meteor (every 35s)
+> Yellow Indicator
+> Deals AoE 150k true damage
+> 150k damage is shared between player (i.e. 2 player take 75k each, 5 player take 30k each)
+> Inflict 40s burn debuff (can't be removed), True Damage every 2s
+> Burn damage depends on Skiaclipse missing %HP, damage between 500 - 15k per 2s
+> Use Aukuras to remove burn faster (Skill Scroll)
+> Meteor drop automatically, Skiaclipse can do another skill while meteor fall
+> Don't Tank Meteor alone
+
+
+-- Curse (at specific %HP thresholds)
+> Red icon and red circle on player
+> Deals AoE 150k True Damage
+> Explode after 5s
+> Touch another player to move the curse
+> After transfer, immune from curse for 6s (can't be transfer back maybe?)
+> Immune only for debuff curse, not for the damage of its explosion
+> Give curse to someone who is able to survive
+> Cursed player have to run far away from party
+
+-- Bone Prison & Wipe (at specific %HP thresholds)
+> Skiaclipse will teleport to mid, and 1 player silenced and teleported also on mid.
+> After 3s, teleported player will be prisoned and green circle appear around it.
+> Bone prison deals damage to prisoned player by 10% maxhp(player)/s.
+> Skiaclipse will fly and land, impact knockdown and knockback player, player must jump to avoid this.
+> After land, Skiaclipse channels for 1s and release map-wide AoE 999k True Damage, player must on green circle to avoid this.
+> Don't broke the prison before Skiaclipse finish doing the 999k skills.
+> Unlike Unique Raid, Bone Prison on Legend Skia has HP instead of Hitpoint. (3M HP, 11k Def)
+
+=#= Gimmick
+-- Summon Orbs
+> Each time orbs are summoned, they move 50% faster.
+> You will summon 3 mobs whenever you step on a puddle.
+> To prevent mob swarm, look closely and do not enter and leave puddles continuously.
+> Keep the bossfight away from the puddles.
+> Puddles are magic circles and may be destroyed easily with siege burst, detonate traps, or counterspell 
+> When you destroy an orb, no puddle appears
+> Turn Undead (scrolls) work to one shot orbs
+
+=============================================
+
+=== C. Counters vs true damage  - Phase 2
+
+=============================================
+
+=#= Swordman
+Skill (& class)				            Vs Meteor	  Vs Curse	Vs 999'999 Wipe
+Bear (swordsman)			            Yes		      Yes   		No
+Liberate (swordsman)		          Yes		      Yes	    	No
+Muleta (matador)			            ??		      Yes	    	??
+Paso Doble (matador)			        Yes		      Yes	    	Yes
+Backslide (matador)			          ??		      No	    	No
+Guardian (peltasta)			          Yes		      Yes		    No
+Shield Charger (templar)		      Yes		      Yes		    No
+Slithering (rodelero)			        Yes		      Yes	    	No
+Emperor's Bane on mob (murmillo)	??		      ??		    No
+Evade Thrust (murmillo)			      ??		      No		    No
+
+=#= Wizard
+Skill (& class)				                Vs Meteor	  Vs Curse	Vs 999'999 Wipe
+Teleport (wizard)			                Yes		      No    		Yes
+Magic shield (wizard)			            Yes	      	Yes	    	No
+Missile Hole (sage)			              No		      No		    No
+Mackangdal (bokor)			              Yes		      Yes		    No
+Shadow Pool (shadowmancer)		        ??		      No		    ??
+Shadow Hallucination (shadowmancer)	  Yes		      Yes		    No
+Stop attribute (chronomancer)		      Yes		      Yes		    Yes
+Genbu (myangsa)				                Yes		      Yes		    No
+Levitation (featherfoot)		          No		      No		    No
+Rune of Protection (runecaster)		    Yes		      Yes		    No
+
+=#= Archer
+Skill (& class)				                Vs Meteor   Vs Curse	Vs 999'999 Wipe
+Leap or Jump (archer)			            Yes		      No		    Yes
+Lied des Weltbaum (pied piper)		    Yes		      Yes		    Yes
+Friedenslied on ally (pied piper)	    Yes		      Yes		    Yes
+Friedenslied on self (pied piper)	    No		      No    		No
+Fire and Run (matross)			          Yes		      Yes   		Yes
+
+=#= Cleric
+Skill (& class)				                Vs Meteor	  Vs Curse	Vs 999'999 Wipe
+Fade (cleric)				                  No		      No    		No
+Revive (priest)				                Yes		      Yes   		Yes
+Out of Body (sadhu)			              Yes		      Yes		    No
+Foretell (oracle)			                Yes		      Yes		    No
+Counterspell (oracle)			            No		      No		    No
+Ein Sof (kabbalist)			              Yes		      Yes		    No
+Revenged Sevenfold (kabbalist)		    ??		      No		    No
+Engkrateia attribute (exorcist)		    Yes		      Yes		    Yes
+Iron Skin (monk)			                No		      No		    No
+Stone Skin (paladin)			            Yes     		Yes		    No
+
+=#= Scout
+Skill (& class)				                  Vs Meteor	Vs Curse	Vs 999'999 Wipe
+Cloaking (scout)			                  No		    No		    No
+Annihilation (assassin)			            Yes		    Yes		    Yes
+Mangle attribute (outlaw)		            ??		    No		    No
+Blindfire attribute (outlaw)		        ??		    No		    No
+Rampage (outlaw)			                  ??		    No		    No
+Mokuton no Jutsu (shinobi)		          ??		    ??		    ??
+Bloody Overdrive attrib (bulletmarker)	Yes		    Yes		    Yes
+Ritirarsi (ardito)			                Yes		    Yes		    Yes
+Redemption (sheriff)			              ??		    No		    No
+Burrow (rogue)				                  No		    No    		No
+
+
+=============================================
+
+=== D. %HP Thresholds for special attacks - Phase 2
+
+=============================================
+
+Boss HP%	Attack A			                    Attack B
+90		    Summon Orbs   	                  -
+85		    Black Link    	                  -
+80		    Bone Prison			                  -
+70		    Curse				                      -
+65		    Summon Orbs			                  -
+60		    Black Link			                  -
+55		    Curse				                      -
+50		    Bone Prison			                  -
+40		    Summon Orbs			                  -
+35		    Tornado	Curse			                -
+30		    Black Link			                  -
+25		    Tornado				                    -
+20		    Bone Prison			                  Curse
+20-2	    (after patch) Rampage version A		-
+15		    Tornado	Summon Orbs		            -
+8		      Tornado				                    -
+8-2	      (before patch) Rampage version A	-
+5		      Black Link			                  -
+
+=============================================
+
+=== E. Player stats
+
+=============================================
+
+-- Tank or Aggro
+HP: 160'000+
+DEF: 60'000+
+MDEF: 30'000+
+Block: 900+
+
+-- DPS
+Minimum of 1 invincibility skill
+Attack: 20'000+
+DEF: 20'000+
+MDEF: 20'000+
+
+Critical dps
+Critical rate: 1200+
+
+-- Healer
+HP: 151'000+
+DEF: 50'000+
+MDEF: 25'000+
+Healing: 3000+
+
+=============================================
+
+=== F. Class Roles
+
+=============================================
+
+=#= Class Roles
+-- Healer
+> Requires the highest DEF & MDEF, high HP, and best play.
+> Priest revive must be saved for bone prison.
+> Keep healing the player who is trapped inside the bone prison.
+> Healers must remember all % thresholds and prepare in advance to burst heal the affected player if needed.
+> Healer must remember who has been resurrected already. Do not waste resurrect cooldown.
+> Oracles, please use counterspell to destroy orb-light-puddles, and counterspell to destroy tornado.
+> Use fade on party to prevent skiaclipse dive attack after thunder.
+> Oracle twist of fate is useful for phase 1 near 5% HP, and at phase 2 near 2% HP.
+
+-- Aggro or Tank
+> Requires sufficient DPS to keep aggro.
+> Once phase 2 starts, immediately lure skiaclipse away from the middle.
+> The boss will almost never use thunder or smoke blast on tank.
+> Stand next to the wall, and make skiaclipse face you.
+> Be careful of the gimmick portals opening. You might accidentally enter the gimmick room and lure skiaclipse to that room.
+> You are the one to decide your battle location. You must look for a safe spot with less puddles & clouds.
+> Keep an eye on your party members. Skiaclipse might have spawned clouds & puddles on them. They cannot stay and fight. You must move immediately.
+> You must not move towards your party to take curse, because skiaclipse will claw-attack in their direction. Let the player with invincibility skills take curse instead.
+
+-- DPS & Utility
+> If you have a tank or aggro player, you must stay away from boss claw attacks. 
+> Stay behind the boss and watch for smoke blast, thunder, and dive.
+> Use your invincibility skills if you think you cannot run away in time.
+> Builds with featherfoot (levitation) are immune to claw, and immune to dive.
+> Call PASS if you have a chrono
+> At least 1 wizard must have max magic shield to reduce damage from true damage attacks. Turn on Party share attribute.
+> Decide before raid what you will do when orbs spawn. Lure orb or kill orb?
+> Some builds have a very easy time destroying puddles (cannoneer, oracle, sapper).
+> Does your build have invincibility skills? Then take curse from player without invincibility skills.
+> DPS is responsible for killing the bone prison as fast as possible.
+> Using invincible skill like chrono stop near %HP thresholds makes boss never use curse or bone prison on you.
+
+-- Gimmick
+> The gimmick clear grants +100% damage and +100% healing buff for 30 seconds to all players.
+> Gimmick requires 1 player each time.
+> Raid is very possible even without gimmick.
+
+=============================================
+
+=== G. Credits
+
+=============================================
+
+Owner of original guide from below link :
+https://treeofsaviorraidguide.blogspot.com/2019/07/draft-legend-skiaclipse-guide-2019.html
+
+Thanks for your awesome guide,
+I just help to arrange and make it for more easier to read or searching something.
